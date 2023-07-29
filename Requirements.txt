@@ -1,1 +1,13 @@
-ok 
+1. Install these libraries 
+
+pip install SpeechRecognition
+pip install numpy
+pip install google-cloud-speech
+pip install pandas
+pip install moviepy
+pip install pysrt
+
+
+2. download your own GOOGLE SPEECH API .jason credentials 
+
+3. replace the gcs.uri link to local file or add your own link off google bucket gcs.uri
