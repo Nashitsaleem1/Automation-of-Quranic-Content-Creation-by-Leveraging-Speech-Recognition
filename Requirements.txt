@@ -8,6 +8,6 @@ pip install moviepy
 pip install pysrt
 
 
-2. download your own GOOGLE SPEECH API .jason credentials 
+2. download your own GOOGLE SPEECH API .json credentials 
 
 3. replace the gcs.uri link to local file or add your own link off google bucket gcs.uri
