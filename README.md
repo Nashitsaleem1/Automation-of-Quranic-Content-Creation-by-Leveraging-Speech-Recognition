@@ -575,9 +575,6 @@ This code can be used to process the text file `asrt.txt` and search for corresp
 Please note that this is a simplified explanation of the code. For a more detailed understanding, refer to the original code and comments provided.
 ```
 
-Save this code as a `.md` file and use it in your thesis.
-
-
 The code provided utilizes the MoviePy library to process a video file, audio file, and subtitle file to create a final video with embedded subtitles. Here's a detailed explanation of the code:
 
 1. The code imports necessary modules: `VideoFileClip`, `AudioFileClip`, `TextClip`, and `CompositeVideoClip` from the MoviePy library, as well as the `re` and `pysrt` modules.
