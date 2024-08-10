@@ -1,4 +1,4 @@
-# FYP-AI-Model-for-Recognition-and-Synchronization-of-Quranic-Text-with-Audio
+# Automation-of-Quranic-Content-Creation-by-Leveraging-Speech-Recognition
 Developed advanced algorithms, Automated the process of video creation by eliminating the manual editing based workflows reducing creation time from 5 hours to 5 min.
 
 # Speech-to-Text Transcription and Matching Code
